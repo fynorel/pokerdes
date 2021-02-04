@@ -1,2 +1,2 @@
 # pokerdes
-jouer au pker avec des dés
+jouer au poker avec des dés
