@@ -16,4 +16,8 @@ et rembraille sur la question "Combien de dés souhaitez-vous relancer ? "
 au lieu de demander : "Voulez-vous rejouer ? o/n : "  
 J'avoue je suis désarmé !  
 
+05/02/2021  
+----------
+où placer les calcul des scores
+
 
